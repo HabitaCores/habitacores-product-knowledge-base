@@ -6,7 +6,7 @@
 |---|---|
 | Product | Habitacores |
 | Document | Domain Model |
-| Version | 0.2 |
+| Version | 0.1 |
 | Status | Draft for approval |
 | Product Visionary | Idris O. Junaid |
 | Chief Product Architect | AI-assisted product architecture function |
